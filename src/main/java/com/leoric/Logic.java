@@ -1,4 +1,5 @@
 package com.leoric;
 
-public class Logic {
+public class Logic{
+
 }
